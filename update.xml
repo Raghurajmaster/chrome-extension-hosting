@@ -1,5 +1,5 @@
 <gupdate xmlns="https://www.google.com/update2/response" protocol="2.0">
 <app appid="folfgimlepbdojcpeokmibeacpmkbgnn">
-<updatecheck codebase="https://panacea.nodesec.in/extension/v3.5.crx" version="3.5"/>
+<updatecheck codebase="https://raghurajmaster.github.io/chrome-extension-hosting/v3.5.crx" version="3.5"/>
 </app>
 </gupdate>
